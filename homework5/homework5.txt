@@ -1,0 +1,2 @@
+4. The runtime is much faster with the parallel program as opposed to the serial program because 
+it is using multiple threads to run the program as the serial program is running at regular time.
